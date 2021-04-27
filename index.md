@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- styles -->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <section class="menu">
+        <!-- title -->
+        <div class="title">
+            <h2>our menu</h2>
+            <div class="underline"></div>
+        </div>
+
+    <!-- filter buttons -->
+    <div class="btn-container">
+        <!-- <button class="filter-btn" type="button" data-id="all">All</button>
+        <button class="filter-btn" type="button" data-id="breakfast">Breakfast</button>
+        <button class="filter-btn" type="button" data-id="lunch">Lunch</button>
+        <button class="filter-btn" type="button" data-id="shakes">shakes</button> -->
+    </div>
+    <!-- menu items -->
+        <div class="section-center">
+            <!-- single item
+            <article class="menu-item">
+                <img src="./menu-item.jpeg" class="photo" alt="Gofres">
+                <div class="item-info">
+                   <header>
+                        <h4>buttermilk pancakes</h4>
+                        <h4 class= "price">15$</h4>
+                    </header>
+                    <p class="item-tex"><div class="2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, assumenda? Autem explicabo totam unde accusamus? Accusamus ut porro molestiae repellendus? Corporis itaque dolorem commodi debitis in vero excepturi vitae similique.</div></p>
+                </div>
+            </article> -->
+            <!-- end of single item -->
+             
+
+
+        </div>
+        
+    </section>
+    <script src="./apps2.js"></script>
+</body>
+</html>
